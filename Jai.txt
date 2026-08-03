@@ -1,7 +1,10 @@
-Hi!!! Jai
+Hi!!! Jai Suriyaa
 How are u??
 
 I am fine..bye bye
+<<<<<<< HEAD
 
 Meet u again 
 when time comes
+=======
+>>>>>>> 9b648d5ce695813245b4d4fe6c3732e99e375f68
